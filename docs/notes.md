@@ -4,3 +4,4 @@ Notes and usage details for BuildCLI.
 - add a note about the defaults
 - clarify the setup steps
 - fix a small wording issue
+- fix a small wording issue
