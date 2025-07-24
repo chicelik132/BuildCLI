@@ -7,3 +7,4 @@
 - chore: clarify the setup steps
 - chore: add a note about the defaults
 - docs: clarify the setup steps
+- docs: link the usage section
