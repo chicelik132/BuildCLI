@@ -31,3 +31,4 @@
 - docs: fix a small wording issue
 - fix: clarify the setup steps
 - chore: fix a small wording issue
+- fix: add a note about the defaults
